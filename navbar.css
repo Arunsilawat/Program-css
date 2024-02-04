@@ -1,0 +1,30 @@
+html{
+    overflow-x: hidden;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+ul li a{
+    text-decoration: none;
+    text
+
+
+
+}
+
+ul li{
+    list-style-type: none;
+    border: 2px solid rgb(191, 235, 17);
+   margin: 20px;
+   padding: 20px;
+   border-radius: 50px;
+
+}
+ul{
+    display: flex;
+    justify-content: center;
+    
+}
