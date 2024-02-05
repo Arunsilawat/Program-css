@@ -1,0 +1,12 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+
+  diV {
+    color: blue;
+    font-family: 'Honk', system-ui;
+    font-size: 92px;
+}
+
+p {
+    color: brown;
+}
